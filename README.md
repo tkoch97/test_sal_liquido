@@ -4,7 +4,7 @@
 
 >Praticando condicionais em C
 
-Projeto construído para praticar os comandos de condicionais na lingauem C. Exercício da disciplina de Algoritmos e programação estruturada da faculdade de Desenvolvimento Web.
+Projeto construído para praticar os comandos de condicionais na linguagem C. Exercício da disciplina de Algoritmos e programação estruturada da faculdade de Desenvolvimento Web.
 
 ## 🔧 Tecnologias
 
